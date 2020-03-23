@@ -27,3 +27,24 @@
 50年代新聞,http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 
 49壹新聞,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+
+三立新闻,http://ter.live2.ksmobile.net/yolo/2dfe695fd14846459b3265611c1ff899.flv
+
+民视新闻,http://www.chengbo.org/dl/ProxY3.m3u8?id=msxw&tm=1584762020&key=81d667cb5e8f8e87bf631067c0aa47d7
+
+东森新闻,https://dlhls-cdn-mp.zhanqi.tv/zqlive/298369_X6OEa.m3u8
+
+公视3台,http://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/playlist.m3u8
+
+中视新闻,http://pull.scphsd.com/live/0507a5fc648c86dfb4e20b94242ec818.flv
+
+中天亚洲,http://124.236.58.84/hdl0901.plures.net/onlive/dbaab360555b4bc0a6c509c7f5c93280.flv
+
+八大娱乐,http://124.236.58.82/hdl0901.plures.net/onlive/7867173b5a444ff3944cd0971064107d.flv
+
+八大综合,http://124.236.58.83/hdl0901.plures.net/onlive/38bfd0730f9549029caecdb7fdc0217a.flv
+
+霹雳台湾,http://ter.live2.ksmobile.net/yolo/02d08f6fed0b4bfbb8fabb72b6921e7a.flv
+
+公视台语,http://pull.scphsd.com/live/d0b0f50af3536269ded0b7db73bb3a68.flv
+
