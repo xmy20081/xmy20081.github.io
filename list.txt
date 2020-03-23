@@ -1,5 +1,6 @@
 港台新闻频道,#genre#
 
+
 凤凰卫视中文,https://pull.scphsd.com/live/3f00775a3581449c852c42dcbce8dbdf.flv
 
 凤凰卫视资讯,https://pull.scphsd.com/live/257536cb64e448738088e3650e816214.flv
@@ -76,9 +77,12 @@
 
 壹 新 聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
 
+
 国内新闻频道,#genre#
 
+
 国际新闻频道,#genre#
+
 
 港台电影频道,#genre#
 東森電影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
@@ -130,28 +134,37 @@ TVB功夫,https://pull.scphsd.com/live/5c57700caa72473c8843cbead1849f1b.flv
 
 国内电影频道,#genre#
 
+
 财经频道,#genre#
 第一財經P7p,p8p://0198.02686.cc:16871/5d1a69df000139dd11be8489e1d7a141.ts
 
+
 体育频道,#genre#
 ELTA體育3 ,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+
 
 少儿频道,#genre#
 MOMO親子 ,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
 
 迪士尼卡通 ,p2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
 
+
 综艺频道,#genre#
+
 
 美食旅游频道,#genre#
 美食星球頻道,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
 
+
 地理动物频道,#genre#
 國家地理野生 ,p2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
 
+
 央视卫视,#genre#
 
+
 地方频道,#genre#
+
 
 港台频道,#genre#
 有线603,https://pull.scphsd.com/live/9181871a175444c7a592287e86b4ebd3.flv
@@ -164,27 +177,39 @@ MOMO親子 ,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
 
 星空衛視,P2p://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7
 
+
 国际频道,#genre#
+
 
 网络电台FM频道,#genre#
 
+
 央视地方FM频道,#genre#
+
 
 国际FM频道,#genre#
 
+
 音乐MV频道,#genre#
+
 
 看世界频道,#genre#
 
+
 直播频道,#genre#
+
 
 最新电影频道,#genre#
 
+
 最新电视剧频道,#genre#
+
 
 经典影视频道,#genre#
 
+
 影视轮播频道,#genre#
+
 
 
 
