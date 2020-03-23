@@ -1,4 +1,14 @@
-新闻频道,#genre#
+港台新闻频道,#genre#
+
+凤凰卫视中文,https://pull.scphsd.com/live/3f00775a3581449c852c42dcbce8dbdf.flv
+
+凤凰卫视资讯,https://pull.scphsd.com/live/257536cb64e448738088e3650e816214.flv
+
+鳳凰中文HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
+
+鳳凰資訊HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
+
+鳳凰香港HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
 
 寰宇新聞台灣台,http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
 
@@ -47,4 +57,135 @@
 霹雳台湾,http://ter.live2.ksmobile.net/yolo/02d08f6fed0b4bfbb8fabb72b6921e7a.flv
 
 公视台语,http://pull.scphsd.com/live/d0b0f50af3536269ded0b7db73bb3a68.flv
+
+東森新聞 ,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
+
+三立新聞 ,p2p://190.2.146.92:18912/5c7249be000b87931d5796ff51e62b02.ts
+
+中天新聞 ,p2p://190.2.146.92:18912/5c7249b6000641f71d5776673c1d2f63.ts
+
+东森新闻,http://iptv.52qdg.com/iptv.php?id=tw&pamid=003
+
+中天新闻台,http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
+
+東森新聞,p8p://0198.02686.cc:16871/5d1a69c2000a678211be159b7e5802a8.ts
+
+中天新聞,p8p://0198.02686.cc:16871/5d1a69b000057f8711bdce095e527c76.ts
+
+東森財經新聞,p8p://0198.02686.cc:16871/5d1a69c300063ae211be1871800a9ae8.ts
+
+壹 新 聞HD,P2p://sdgdklwos.finetv.tv:9906/59fd08ad000509c00236604f613b08e7
+
+国内新闻频道,#genre#
+
+国际新闻频道,#genre#
+
+港台电影频道,#genre#
+東森電影,p8p://0198.02686.cc:16871/5d1a69af0009735f11bdcb2402d2abda.ts
+
+東森新聞 ,p2p://190.2.146.92:18912/5c7248a0000383701d5337cb153b4b51.ts
+
+东森电影,https://pull.scphsd.com/live/22862241f3a44aaba0df79698197d874.flv
+
+衛視電影臺,p8p://0198.02686.cc:16871/5d1a69d0000743f711be4b7d2b320c30.ts
+
+靖天電影臺,p8p://0198.02686.cc:16871/5d1a69d4000d791711be5cb4cbc75c73.ts
+
+鴻基影劇臺,p8p://0198.02686.cc:16871/5d1a69d700008c5a11be651dc2bd3d52.ts
+
+龙祥时代电影,https://pull.scphsd.com/live/e5acc863380048de8244d21a93cfad5e.flv
+
+美亞電影 ,p2p://190.2.146.92:18912/5c724a0e000442831d58cdaa6a2c5c52.ts
+
+緯來電影 ,p2p://190.2.146.92:18912/5c7249d80003096d1d57fa6c33601be9.ts
+
+星衛電影 ,p2p://190.2.146.92:18912/5c724a05000626a61d58aaff0c3f3175.ts
+
+好萊塢電影 ,p2p://190.2.146.92:18912/5c7249e2000125281d5820ff23a165d1.ts
+
+TVB經典台,P2p://sdgdklwos.finetv.tv:9906/5b2f1fc50006bfe610a020d967055499
+
+天映經典台,P2p://sdgdklwos.finetv.tv:9906/5b2e01c400098d0f0c42edad22c37385
+
+天映頻道HD,P2p://sdgdklwos.finetv.tv:9906/5b2f1ee9000d3e3d109cc71f4b240eb3
+
+衛視電影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
+
+TVB武術台,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
+
+衛視閤家歡HD,P2p://sdgdklwos.finetv.tv:9906/59fd14190000e1040262fd2560d91f69
+
+衛視西片台HD,P2p://sdgdklwos.finetv.tv:9906/59fd1475000301e1026465123e2e3650
+
+好萊塢電影HD,P2p://sdgdklwos.finetv.tv:9906/5a141b66000b4be65f90135822b40e43
+
+星衛電影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd086a00072cbb02355b236c4a3fcb
+
+星衛娛樂台HD,P2p://sdgdklwos.finetv.tv:9906/59fd332000050f8702dc318743ba40af
+
+美亞電影台HD,P2p://sdgdklwos.finetv.tv:9906/59fd08470008d4d60234d2d92e65644c
+
+TVB功夫,https://pull.scphsd.com/live/5c57700caa72473c8843cbead1849f1b.flv
+
+
+国内电影频道,#genre#
+
+财经频道,#genre#
+第一財經P7p,p8p://0198.02686.cc:16871/5d1a69df000139dd11be8489e1d7a141.ts
+
+体育频道,#genre#
+ELTA體育3 ,p2p://190.2.146.92:18912/5c7249f7000966361d58752a73813a0e.ts
+
+少儿频道,#genre#
+MOMO親子 ,p2p://190.2.146.92:18912/5c7248620002c4fd1d52456c75ed6b55.ts
+
+迪士尼卡通 ,p2p://190.2.146.92:18912/5c72485c0008852e1d522f7314a34325.ts
+
+综艺频道,#genre#
+
+美食旅游频道,#genre#
+美食星球頻道,p8p://0198.02686.cc:16871/5d1a69cf0001415211be460bf6630f93.ts
+
+地理动物频道,#genre#
+國家地理野生 ,p2p://190.2.146.92:18912/5c7249fb000db88c1d5885e333974925.ts
+
+央视卫视,#genre#
+
+地方频道,#genre#
+
+港台频道,#genre#
+有线603,https://pull.scphsd.com/live/9181871a175444c7a592287e86b4ebd3.flv
+
+有线18台,https://pull.scphsd.com/live/6f1541b407654a068ded3c7794c47398.flv
+
+衛視中文台HD,P2p://sdgdklwos.finetv.tv:9906/59fd0394000660a0022277050be47b46
+
+澳門蓮花,P2p://sdgdklwos.finetv.tv:9906/5acb8740000253a62c1307843e7c4bc3
+
+星空衛視,P2p://sdgdklwos.finetv.tv:9906/5acb8af3000978192c217c90517245b7
+
+国际频道,#genre#
+
+网络电台FM频道,#genre#
+
+央视地方FM频道,#genre#
+
+国际FM频道,#genre#
+
+音乐MV频道,#genre#
+
+看世界频道,#genre#
+
+直播频道,#genre#
+
+最新电影频道,#genre#
+
+最新电视剧频道,#genre#
+
+经典影视频道,#genre#
+
+影视轮播频道,#genre#
+
+
+
 
