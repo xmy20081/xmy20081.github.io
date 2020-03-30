@@ -1514,6 +1514,14 @@ BBC经典,http://qdntv96789.applinzi.com/96tv.php?633138330
 
 新马频道,#genre#
 
+新马 Ⅰ 新传媒 8,http://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+新马 Ⅰ 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+新马 Ⅰ 朝阳频道,http://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+ASTRO AEC,P2p://sdgdklwos.finetv.tv:9906/5b04fa270009e92c6bfca9d05e723d72
+ASTRO小太阳,P2p://sdgdklwos.finetv.tv:9906/5b04f9b200072af66bfae01c7c8f7421
+ASTRO華麗台,P2p://sdgdklwos.finetv.tv:9906/5b04f9000000c2aa6bf8272669213c39
+ASTRO歡喜台,P2p://sdgdklwos.finetv.tv:9906/5b04f9f5000224816bfbe48c31ca641f
+
 日韩频道，#genre#
 
 読売テレビP7p,p8p://0198.02686.cc:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
