@@ -1146,7 +1146,10 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 贵州卫视,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8#http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8#http://39.135.34.20:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032847
 河南卫视,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8#http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/henan_2_hd.m3u8
  
+ 
+电台频道,#genre#
 
+测试频道,#genre#
 
 港台新闻频道,#genre#
 
