@@ -1087,7 +1087,16 @@ TVB明珠台,http://m.567it.com/Pearl.m3u8
 FZTV-少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 CCTV-14少儿,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 
-体育地理频道1,#genre#
+体育频道1,#genre#
+
+博斯無限HD,P2p://sdgdklwos.finetv.tv:9906/59fd149100031ddf0264d2721a4e5126
+博斯網球HD,P2p://sdgdklwos.finetv.tv:9906/59fd0790000c3d34023208dc252633c0
+博斯高球1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf4c90006ba2c01e8ae1c1ec827ca
+博斯高球2HD,P2p://sdgdklwos.finetv.tv:9906/59fd073b0000c2280230b9e6743b0ab3
+博斯運動1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
+博斯運動2HD,P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
+
+地理频道1,#genre#
 
 亞洲旅遊台,P2p://sdgdklwos.finetv.tv:9906/59fd0809000909e90233e0b820d34ea5
 亞洲美食HD,P2p://sdgdklwos.finetv.tv:9906/59fd27e40007382002b04fb323e85206
@@ -1104,12 +1113,6 @@ CCTV-14少儿,http://140.249.30.111/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3
 地理悠人HD,P2p://sdgdklwos.finetv.tv:9906/59fd2804000a86bb02b0cd8e6fa14a15
 历史頻道1HD,P2p://sdgdklwos.finetv.tv:9906/59fd16f900060059026e396d395f3348
 历史頻道2HD,P2p://sdgdklwos.finetv.tv:9906/59fd2b7900012c9002be4c3577197bb9
-博斯無限HD,P2p://sdgdklwos.finetv.tv:9906/59fd149100031ddf0264d2721a4e5126
-博斯網球HD,P2p://sdgdklwos.finetv.tv:9906/59fd0790000c3d34023208dc252633c0
-博斯高球1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf4c90006ba2c01e8ae1c1ec827ca
-博斯高球2HD,P2p://sdgdklwos.finetv.tv:9906/59fd073b0000c2280230b9e6743b0ab3
-博斯運動1HD,P2p://sdgdklwos.finetv.tv:9906/59fcf5fa00018d0c01ed543c25887aed
-博斯運動2HD,P2p://sdgdklwos.finetv.tv:9906/59fd3861000ae97702f0b8f522337286
 
 音乐视频频道1,#genre#
 
@@ -4049,9 +4052,6 @@ CETV-4中国教育台,http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8?
 电台频道,#genre#
 
 测试频道,#genre#
-
-彩虹,http://58.99.33.2:1935/liveedge4/gEHrAcYK_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-驚艷CR電視台,http://58.99.33.2:1935/liveedge4/gEHrAcYK_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 
 港台新闻频道,#genre#
 
